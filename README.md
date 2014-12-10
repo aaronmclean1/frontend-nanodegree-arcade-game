@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
+frontend-nanodegree-arcade-game - Aaron McLean 12/2014
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Let's go for a swim!
 
-for self-checking their submission.
+Pick a player using the arrow keys on a keyboard.
+No mouse support.
+Each level gets faster.
+Player gets 3 lives.
