@@ -67,7 +67,7 @@ Player.prototype.render = function(x,y)
 		//draw characters on screen
 		for (var i = 0; i < characterPngs.length; i++)
 		{
-			ctx.drawImage(Resources.get(characterPngs[i]), i * 100, this.y * 83 - 20);
+			ctx.drawImage(Resources.get(characterPngs[i]), i * 101, this.y * 83 - 20);
 		}
 	} 
 	
